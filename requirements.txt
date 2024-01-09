@@ -1,0 +1,16 @@
+# decorest
+git+https://github.com/sukram230799/decorest/@10cadbc2e4c026c8e2bea5727ff44f1029fc5238
+
+# yapf
+
+typing_extensions
+
+httpx
+
+pandas
+
+matplotlib
+
+seaborn
+
+pycentral
